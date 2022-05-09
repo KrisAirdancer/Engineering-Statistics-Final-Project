@@ -3,7 +3,7 @@
 
 Ben Essex, Chris Marston, & Derek Che
 
-You can view our final report [here](https://bessex.github.io/CZAP) and our final presentation slides [here](https://bessex.github.io/CZAP/Presentation.html).
+You can view our final report [here](https://krisairdancer.github.io/Engineering-Statistics-Final-Project/Final-Report.html) and our final presentation slides [here](https://krisairdancer.github.io/Engineering-Statistics-Final-Project/Presentation.html).
 
 If you want to knit our report or presentation from source, be sure that you have the required R packages installed:
 
